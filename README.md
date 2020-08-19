@@ -31,4 +31,5 @@
       <li>Lastly, want to lower the candy bar price to $0.20.</li>
     <p>I responded<q>No Way!! That movie is rated one of the worst movies ever according many. I can't waist my time watching that movie. I have a source for that. It's on <a href="https://en.wikipedia.org/wiki/The_Room#:~:text=The%20Room%20was%20panned%20by,the%20worst%20films%20ever%20made." target="_blank">Wiki</a></q></p>
     <p><q>If you don't belive me <a href="mailto:pryce.seely@gmail.com" target="_blank">email me</a> and I can show you a peer reviewed essay to prove you wrong. Also that $.20 sounds kinda low.</q></p>
-    <p>I then was worried about the requests. I don't know why they are so adamant about <i>The Room</i> it just seems like they actually like it, but why. It's awful. I have never seen it and never will. Then at the corner of my eye I noticed something very frightening. Here is the closest image I can show you that will describe what I am seeing. </p>
+    <p>I then was worried about the requests. I don't know why they are so adamant about <i>The Room</i> it just seems like they actually like it, but why. It's awful. I have never seen it and never will. Then at the corner of my eye I noticed something very frightening. Here is the closest image I can show you that will describe what I am seeing.
+    <img src="funny_lion.jpg" alt="Funny Lion"/></p>
