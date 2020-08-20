@@ -98,6 +98,10 @@ This graph is to show how competance between political parties. This is shown ou
 <p>Password:
 <input type="password" name="password" size="15" maxlength="30"  />
 </form>
+<form action="http://www.example.com/comments.php">
+<p>What do you think of this?</p>
+<textarea name="comments" cols="20" rows="4">What do you think?</textarea>
+</form>
 
 
 </body>
